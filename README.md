@@ -1,16 +1,16 @@
 Hi there, I am Tanish Kalota 👋
 
-
+ 
 🎯 Portfolio website: Portfolio
-⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
-💻 Things I love
+⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓                                                                    
+💻 Things I love 
 
 Python 
 Frontend  Development ✍
 Backend Development ✍️
 
 
-
+                                                                                                            
 
 🛠Tech Stack
 
