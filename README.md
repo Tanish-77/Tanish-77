@@ -5,7 +5,7 @@ Hi there, I am Tanish Kalota 👋
 ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓                                                                    
 💻 Things I love 
 
-Python 
+
 Frontend  Development ✍
 Backend Development ✍️
 
@@ -14,10 +14,9 @@ Backend Development ✍️
 
 🛠Tech Stack
 
-Python Django Flask HTML5 CSS3
+HTML5 CSS3  React.js Express.js Node.js  MongoDB
 
-Bootstrap MySQL GitHub Linux Heroku
+Bootstrap MySQL GitHub
 
-Tensorflow PyTorch OpenCV AWS Git
 
 Show some  ❤️  by starring some of the repositories!
